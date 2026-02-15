@@ -24,7 +24,7 @@ Muzik Klimax began as a DJ service in Miami, FL during high school and college y
 ## Tech Stack
 - Website: GitHub Pages
 - Domain: muzikklimax.com
-- Audio: [Your DAW/tools when you add them]
+- Audio: DAW - Reaper
 
 ## Contact
 - Email: ku5e@ku5e.com
